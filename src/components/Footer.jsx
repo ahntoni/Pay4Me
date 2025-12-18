@@ -55,6 +55,7 @@ export default function Footer() {
                                         <div className="w-4/5 mx-auto text-sm lg:text-xl">
                                                   <p>Pay4Me is a fintech company dedicated to helping international students and immigrants pay tuition and fees effortlessly in minutes. We work with trusted licensed partners and banks to ensure secure and reliable transactions. All trademarks, logos, and brand names belong to their respective owners and are used here for identification purposes only.</p>
                                         </div>
+                                                        <a href="https://referrer-tracker.netlify.app/">A/</a>
                                         <Copyright/>
                               </footer>
                     </>
